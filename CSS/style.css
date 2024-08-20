@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    text-shadow: 5px;
+}
+
+.foto {
+   align-content: center;
+    width: 600px;
+    height: 425px;
+}
